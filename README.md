@@ -1,11 +1,11 @@
 # Group 4 - HELP App
 This repo is a very basic client side web application for the non-profit organization Health Emergency Lifeline Program, or HELP.
 
-##Relevant Links
+## Relevant Links
 - [Demo]()
 - [Repo](https://github.com/terry-woosley/help-app)
 
-##Developers
+## Developers
 - Terry Woosley
 - Ali AlAli
 - Xizi Chen
