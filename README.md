@@ -9,3 +9,4 @@ This repo is a very basic client side web application for the non-profit organiz
 - Terry Woosley
 - Ali AlAli
 - Xizi Chen
+- Dylan Rongey
