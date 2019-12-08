@@ -5,3 +5,55 @@
   }
 
   
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    /* display: block; */
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  h3{
+    background-color: #9e9fff;
+    padding: 10px;
+  }
+
+  .responsive{
+    /* display: block; */
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: auto;
+  }
+
+  .logo{
+    width:6em;
+    height:5em; 
+    padding: 1em 1em 1em 1em;
+  }
+
+  .image {
+    position: relative;
+    text-align: left;
+    color: white;
+  }
+  
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 50px;
+  }
+  
+  
