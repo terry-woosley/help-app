@@ -13,4 +13,4 @@ This repo is a very basic client side web application for the non-profit organiz
 
 
 ## Credit
--Images and Resources taken from old assignents provided by Dr. Case.
+- Images and Resources taken from old assignents provided by Dr. Case.
