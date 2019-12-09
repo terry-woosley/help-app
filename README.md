@@ -10,3 +10,7 @@ This repo is a very basic client side web application for the non-profit organiz
 - Ali AlAli
 - Xizi Chen
 - Dylan Rongey
+
+
+## Credit
+-Images and Resources taken from old assignents provided by Dr. Case.
